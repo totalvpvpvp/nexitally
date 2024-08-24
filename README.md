@@ -24,7 +24,7 @@ Nexitally 不同于那些采用 SSpanel和V2board 面板的机场，其面板为
 
 [Nexitally奶昔机场怎么样？](https://clever99.com/how-about-nexitally)
 
-## 特色
+## 特色1
 
 * 每31天500G的总流量
 * 赠送Netflix会员
